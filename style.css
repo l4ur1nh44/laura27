@@ -1,0 +1,69 @@
+.cabeçalho{
+    background-color: #eb7cff;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+.item{
+    display: inline-block;
+    font-size: 50px;
+}
+.imagem{
+    width: 30%;
+}
+.texto{
+    background-image: linear-gradient(#eb7aff,#e193ff,#e193ff);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 6cm 0;
+}
+.texto-div{
+    width: 35%;
+}
+.texto-um{
+    padding: 20px;
+    font-size: 30px;
+}
+.texto-dois{
+    padding: 20px;
+    font-size: 20px;
+}.passos{
+    background-color: #eec4ff;
+    color: black;
+    padding: 6cm 0;
+}
+.passos-div{
+    text-align: center;
+}
+.unhas-1{
+    padding: 20px;
+    font-size: 30px;
+    width: 96%;
+}
+.unhas-2{
+    padding: 20px;
+    font-size: 30px;
+}
+.unhas-3{
+    padding: 20px;
+    font-size: 30px;
+}
+.unhas-4{
+    padding: 20px;
+    font-size: 30px;
+    width: 93%;
+}
+.unhas-5{
+    padding: 20px;
+    font-size: 30px;
+    width: 103%;
+}
+.unhas-6{
+    padding: 20px;
+    font-size: 30px;
+    width: 93%;
+}
